@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
