@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
