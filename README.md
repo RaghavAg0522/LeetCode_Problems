@@ -53,4 +53,12 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
