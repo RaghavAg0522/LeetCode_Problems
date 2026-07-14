@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0007-reverse-integer) |
 ## Prefix Sum
 |  |
@@ -58,6 +59,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
