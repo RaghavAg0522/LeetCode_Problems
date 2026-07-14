@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
