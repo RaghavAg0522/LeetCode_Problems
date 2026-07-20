@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,4 +90,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
