@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -88,16 +89,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RaghavAg0522/LeetCode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
